@@ -10,6 +10,7 @@
 
 * [openSUSE Conference 2018 (Prague)](https://events.opensuse.org/conferences/oSC18/program/proposals/1756)
   * [Kanku - Bridging the gap between OBS and developers](https://m0ses.github.io/kanku-presentation-osc18)
+    * [Video](https://www.youtube.com/watch?v=91Wyza5LtWY&list=PLaRmSBM-vywkLtWSGwF_Rfhz-r1PTacXJ&index=5)
 
 ### 2019
 
