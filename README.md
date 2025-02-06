@@ -2,7 +2,8 @@
 
 ## Kanku
 
-* [Project Page](https://m0ses.github.io/kanku)
+* [Project Page](https://kanku.info)
+* [Kanku-Hub](https://hub.kanku.info)
 * [Cheat Sheet](https://www.cheatography.com/m0ses/cheat-sheets/kanku/)
 * [Source code](https://github.com/M0ses/kanku)
 
